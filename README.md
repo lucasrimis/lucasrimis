@@ -1,7 +1,7 @@
 ### Oi, eu sou o Rimis. :bowtie: :+1:
 
 
-- 🌱 Atualmente estudo desenvolvimento de software.
+- 🌱 Atualmente estudo desenvolvimento web.
 
 <div>
   <a href="https://github.com/lucasrimis">
