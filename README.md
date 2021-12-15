@@ -1,4 +1,4 @@
-### Oi, eu sou o Rimis. :bowtie: :+1:
+# Oi, eu sou o Rimis. :+1:
 
 
 - 🌱 Atualmente estudo desenvolvimento web.
